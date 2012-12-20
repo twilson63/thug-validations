@@ -22,5 +22,9 @@
   },
   "dependencies": {
     "validator": "~0.4.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twilson63/thug-validations.git"
   }
 }
