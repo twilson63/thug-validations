@@ -1,0 +1,26 @@
+{
+  "name": "thug-validations",
+  "version": "0.0.1",
+  "description": "An add-on module for Thug models.  Thug is a functional approach to orm filters and validations.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Validations",
+    "Thug",
+    "Functional",
+    "orm"
+  ],
+  "author": "Tom Wilson",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.7.4"
+  },
+  "dependencies": {
+    "validator": "~0.4.19"
+  }
+}
